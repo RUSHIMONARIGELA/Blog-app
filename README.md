@@ -17,18 +17,8 @@ A full-stack blog web application built using Spring Boot, Hibernate, and MySQL 
 # Frontend
 •React.js for building dynamic user interfaces.  
 •Bootstrap for responsive design
-# Getting Started 🚀
-# Prerequisites
-Make sure you have the following installed on your local machine:  
-•Java 17 or above  
-•Node.js and npm  
-•MySQL  
-•Maven (for building the backend)
 
-# Installation Steps
-Clone the repository  
-git clone https://github.com/your-username/blog-webapp.git  
-cd blog-webapp  
+
 
 
 
